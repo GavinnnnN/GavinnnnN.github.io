@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: ljh_winder@163.com
 description: "Every failure is leading towards success."
 keyword: "gavin, lijiahan, 李嘉汉,ui design, user inteface"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://GavinnnnN.github.io"          # host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/GavinnnnN/GavinnnnN.github.io.git" # code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     username
-zhihu_username:     username
+#
+behance_username:     yismile999@gmail.com
 github_username:    GavinnnnN
 facebook_username:  gavinLiii
 #twitter_username:   Gavin_Lii
